@@ -1,7 +1,6 @@
-- Hi, I’m @araf0216
-- I’m interested in back-end programming including solving data structures and algorithms problems and making neat, functional projects. Other than that, I enjoy video games, film, comedy.
-- I’m currently learning python, Flutter, and of course Git/GitHub.
-- I’m looking to collaborate on open source python projects in general.
+- I have had a passion for programming since high school when I began my journey a self-taught developer, building personal projects and learning to overcome the various issues and challenges in various programming languages and frameworks.
+- Currently pursuing Bachelor of Science in Computer Science at University of South Florida. Gaining exposure and experience to more languages and technologies.
+- Enjoy competing in hackathon competitions and learning from others' experience and perspectives as well as grinding Leetcode problems to continuously develop my problem-solving skills as well as enhancing my conceptual understanding of data structures and algorithms.
 - How to reach me: araf0216@gmail.com
 
 <!---
